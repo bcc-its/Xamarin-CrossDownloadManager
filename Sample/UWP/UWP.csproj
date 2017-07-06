@@ -131,7 +131,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\DownloadManager\Plugin.DownloadManager.Abstractions\Plugin.DownloadManager.Abstractions.csproj">
-      <Project>{6edb0588-ffc5-4ef5-8a99-9e241d0f878d}</Project>
+      <Project>{EE6D523C-84F1-46E2-A53B-C12A47688B49}</Project>
       <Name>Plugin.DownloadManager.Abstractions</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\DownloadManager\Plugin.DownloadManager.UWP\Plugin.DownloadManager.UWP.csproj">

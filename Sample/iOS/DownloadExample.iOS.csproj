@@ -120,11 +120,11 @@
       <Name>DownloadExample</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\DownloadManager\Plugin.DownloadManager.Abstractions\Plugin.DownloadManager.Abstractions.csproj">
-      <Project>{6EDB0588-FFC5-4EF5-8A99-9E241D0F878D}</Project>
+      <Project>{EE6D523C-84F1-46E2-A53B-C12A47688B49}</Project>
       <Name>Plugin.DownloadManager.Abstractions</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\DownloadManager\Plugin.DownloadManager.iOS\Plugin.DownloadManager.iOS.csproj">
-      <Project>{2882AEEB-D4CD-4EB9-8A6C-6653B33681F0}</Project>
+      <Project>{C7AC761B-94ED-4C70-A81B-99B3274EC94D}</Project>
       <Name>Plugin.DownloadManager.iOS</Name>
     </ProjectReference>
   </ItemGroup>
